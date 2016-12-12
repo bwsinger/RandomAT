@@ -1,1 +1,0 @@
-/Library/Python/2.7/site-packages/nuitka/build/static_src/CompiledCodeHelpers.c
